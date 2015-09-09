@@ -1,0 +1,32 @@
+.header {
+	color:#8B0000;
+	font-family: Helvetica;
+	text-align: center;
+	background-color: #6495ED;
+	top: 500px;
+	bottom: 20px;
+	width: 100%;
+	letter-spacing: 18px; 
+}
+.divone {
+	background-color:white;
+
+}
+table, tr, th {
+	line-height: 0px;
+	border: none;
+	padding: 0;
+	background-color: #6495ED;
+}
+h1 {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 0px;
+}
+
+#scaledimg {
+	width: 100%;
+}
+body {
+	background-color: #6495ED;
+}
